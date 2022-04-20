@@ -1,25 +1,25 @@
 local Translations = {
     error = {
-        to_far_from_door = 'Je bent te ver weg van de deurbel',
+        to_far_from_door = 'Je bent te ver van de deurbel',
         nobody_home = 'Er is niemand thuis..',
     },
     success = {
         receive_apart = 'Je hebt een appartement',
-        changed_apart = 'Je bent van appartement verhuisd',
+        changed_apart = 'Je bent verhuisd naar appartement',
     },
     info = {
-        at_the_door = 'Er is iemand aan de deur!',
+        at_the_door = 'Er staat iemand voor de deur!',
     },
     text = {
-        enter = 'Ga appartement binnen',
-        ring_doorbell = 'Deurbel bellen',
-        logout = 'Uitloggen',
-        change_outfit = 'Omkleden',
-        open_stash = 'Open voorraad',
-        move_here = 'Ga hierheen',
-        open_door = 'Open Deur',
-        leave = 'Appartement verlaten',
-        close_menu = '⬅ Menu sluiten',
+        enter = 'Betreed appartement',
+        ring_doorbell = 'Aanbellen',
+        logout = 'Karakter Uitloggen',
+        change_outfit = 'Verander Outfit',
+        open_stash = 'Opbergruimte Openen',
+        move_here = 'Verhuis naar hier',
+        open_door = 'Deur Openen',
+        leave = 'Appartement Verlaten',
+        close_menu = '⬅ Menu Sluiten',
         tennants = 'Huurders',
     },
 }
